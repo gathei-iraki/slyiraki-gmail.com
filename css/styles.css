@@ -1,8 +1,7 @@
 body {
     background-image: url("../video/Fight\ Club.jpeg");
     background-repeat: no-repeat;
-    height: 150%;
-    width: 120%;
+    width: 100%;
     background-attachment: fixed;
     background-size: cover;
   }
